@@ -96,7 +96,7 @@
 # Contact Me ℹ️ :
 
 ## Please feel free to contact me if you have any questions.
-### - Email : ratthakit.k@gmail.com
+### - Email : Nattawut.s@gmail.com
 
 
 <!--
