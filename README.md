@@ -75,6 +75,7 @@
   <h3>Design</h3>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="56" height="56" alt="Figma" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="56" height="56" alt="Figma" />
   </a>
   <h3>Program & Application & Tool</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
